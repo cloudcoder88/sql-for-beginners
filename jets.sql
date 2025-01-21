@@ -1,4 +1,4 @@
---CREATE DATABASE jets;
+CREATE DATABASE jets;
 GO
 
 USE jets;
